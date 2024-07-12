@@ -1,0 +1,2 @@
+# PlaytestCDN
+cdn
